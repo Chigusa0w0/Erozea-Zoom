@@ -14,10 +14,6 @@
     <FovCurrent>124</FovCurrent>
     <FovMax>12C</FovMax>
   </DX11>
-  <LastUpdate>2019-12-24 - 5.05 新的更新</LastUpdate>
+  <LastUpdate>2019-11-20 - 5.05 新的更新</LastUpdate>
   <Version>2019.12.12.0000.0000</Version>
-  <AutoApply>True</AutoApply>
-  <DesiredZoom>70</DesiredZoom>
-  <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>https://raw.githubusercontent.com/LimiQS/Erozea-Zoom/master/Offsets.xml</OffsetUpdateLocation>
 </Root>
