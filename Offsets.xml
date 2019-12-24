@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
     <StructureAddress>1326810</StructureAddress>
@@ -14,6 +14,6 @@
     <FovCurrent>124</FovCurrent>
     <FovMax>12C</FovMax>
   </DX11>
-  <LastUpdate>2019-11-20 - 5.01 最后的更新</LastUpdate>
-  <Version>2019.11.08.0000.0000</Version>
+  <LastUpdate>2019-11-20 - 5.05 新的更新</LastUpdate>
+  <Version>2019.12.12.0000.0000</Version>
 </Root>
